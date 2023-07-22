@@ -4,4 +4,6 @@ use (
 	./cards
 	./evenodd
 	./helloworld
+	./map
+	./structs
 )
