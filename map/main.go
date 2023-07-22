@@ -17,7 +17,7 @@ func main() {
 	// delete(colors, 10)
 
 	printMap(colors)
-	// fmt.Printf("%+v\n", colors)
+	fmt.Printf("%+v\n", colors)
 }
 
 func printMap(c map[string]string) {
